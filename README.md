@@ -47,7 +47,7 @@ AWS practices and studies (EC2, VPC, ELB, Auto Scaling)
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" alt="Git Logo" width="64" />
 
 
-
+<img align="right" height="200" width="200" align="left" alt="Rafa-yoda" src="https://cdn.picrew.me/shareImg/org/202508/338224_k49VuMHy.png" />
           
 
           
