@@ -14,8 +14,3 @@ Bash and Python scripting and automation projects
 
 AWS practices and studies (EC2, VPC, ELB, Auto Scaling)
 
-Course notes and video lesson summaries
-
-Tech experiments and prototypes
-
-All made with dedication to be useful and relevant
