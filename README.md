@@ -1,7 +1,7 @@
 Welcome to my GitHub space! Here you’ll find my projects, studies, and experiments, focused on technology, programming, and innovation.
 
 About Me
-Student passionate about technology and information security
+Student passionate about technology
 
 I love solving complex problems with creativity and logic
 
