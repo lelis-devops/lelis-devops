@@ -1,20 +1,13 @@
 ## Hello! im Lelis
 
+Desenvolvedora apaixonada por tecnologia e inovação, com foco em Linux, Python, DevOps e computação em nuvem. 
 
-🤗Welcome to my GitHub space! Here you’ll find my projects, studies, and experiments, focused on technology, programming, and innovation.
+Sou Mileni Lelis, constantemente movida pelo desafio de resolver problemas complexos com soluções lógicas e inteligentes. Aqui, você encontrará meus projetos e estudos, com ênfase em automação com Bash e Python e práticas de computação em nuvem, AWS (EC2, VPC, ELB, Auto Scaling).
 
-👩‍💻About Me
-Student passionate about technology
 
-❤I love solving complex problems with creativity and logic
+Vamos conversar sobre como posso ajudar seu projeto a decolar.
 
-❤Focused on Linux, Python, DevOps, and cloud computing
 
-❤Fan of challenges, gaming, and underground pop culture
-
-👌What You’ll Find Here
-Bash and Python scripting and automation projects
-AWS practices and studies (EC2, VPC, ELB, Auto Scaling)
 
 <Div>
   <a href="https://github.com/milenilelis">
