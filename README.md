@@ -1,12 +1,10 @@
 ## Hello! im Lelis
 
-Desenvolvedora apaixonada por tecnologia e inovação, com foco em Linux, Python, DevOps e computação em nuvem. 
+Passionate developer with a love for technology and innovation, focused on Linux, Python, DevOps, and cloud computing.
 
-Sou Mileni Lelis, constantemente movida pelo desafio de resolver problemas complexos com soluções lógicas e inteligentes. Aqui, você encontrará meus projetos e estudos, com ênfase em automação com Bash e Python e práticas de computação em nuvem, AWS (EC2, VPC, ELB, Auto Scaling).
+I’m Mileni Lelis, constantly driven by the challenge of solving complex problems with logical and intelligent solutions. Here, you’ll find my projects and studies, with an emphasis on automation using Bash and Python, as well as cloud computing practices on AWS (EC2, VPC, ELB, Auto Scaling).
 
-
-Vamos conversar sobre como posso ajudar seu projeto a decolar.
-
+Let’s talk about how I can help your project take off.
 
 
 <Div>
