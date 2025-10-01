@@ -6,6 +6,16 @@ I’m Mileni Lelis, constantly driven by the challenge of solving complex proble
 
 Let’s talk about how I can help your project take off.
 
+<Div>
+  <a href="https://github.com/milenilelis">
+    <img height="180px" src="https://github-readme-stats.vercel.app/api?username=lelis-devops&show_icons=true&count_private=true" />
+  </a>
+  <img height="180px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lelis-devops&layout=compact&langs_count=16&theme=" />
+</Div>
+
+##
+
+<div style="display: inline_block">
 
 
 
